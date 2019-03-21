@@ -1,2 +1,2 @@
 # Git
-Practice repository to learn to use GIT properly
+Self trained programmer aspiring to become a full-stack developer
